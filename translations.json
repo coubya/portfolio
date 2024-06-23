@@ -1,0 +1,23 @@
+{
+    "fr": {
+        "cv": "CV",
+        "web-semantique": "Web Sémantique",
+        "welcome": "Bienvenue sur mon Portfolio",
+        "introduction": "Bonjour, je m'appelle Yacoub MESBAHI et ceci est mon portfolio. Vous trouverez ici mon CV et une présentation de mes travaux pratiques sur le web sémantique.",
+        "copyright": "© 2024 Yacoub MESBAHI. Tous droits réservés."
+    },
+    "en": {
+        "cv": "Resume",
+        "web-semantique": "Semantic Web",
+        "welcome": "Welcome to my Portfolio",
+        "introduction": "Hello, my name is Yacoub MESBAHI and this is my portfolio. Here you will find my resume and a presentation of my practical work on semantic web.",
+        "copyright": "© 2024 Yacoub MESBAHI. All rights reserved."
+    },
+    "ar": {
+        "cv": "السيرة الذاتية",
+        "web-semantique": "الويب الدلالي",
+        "welcome": "مرحبًا بكم في ملفي الشخصي",
+        "introduction": "مرحبًا، اسمي يعقوب مصبحي وهذا هو ملفي الشخصي. ستجد هنا سيرتي الذاتية وعرضًا لأعمالي العملية على الويب الدلالي.",
+        "copyright": "© 2024 يعقوب مصبحي. كل الحقوق محفوظة."
+    }
+}

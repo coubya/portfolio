@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv_en.xsl"?>
+<resume>
+    <personalInfo>
+        <age>22 years</age>
+        <location>95500 Gonesse</location>
+        <license>Driver's License B - has a vehicle</license>
+    </personalInfo>
+    <education>
+        <degree>
+            <title>Computer Engineering Program</title>
+            <institution>Sup Galilée at Sorbonne Paris Nord University</institution>
+            <location>Villetaneuse</location>
+            <year>2022 - 2025</year>
+        </degree>
+        <degree>
+            <title>Integrated Engineering Preparatory Program</title>
+            <institution>Sup Galilée at Sorbonne Paris Nord University</institution>
+            <location>Villetaneuse</location>
+            <year>2020 - 2022</year>
+        </degree>
+        <degree>
+            <title>Scientific Baccalaureate</title>
+            <institution>René Cassin High School</institution>
+            <location>Gonesse</location>
+            <year>2020</year>
+        </degree>
+    </education>
+    <experience>
+        <job>
+            <title>IT OPS Production Engineer</title>
+            <company>BNP Paribas</company>
+            <years>September 2023 to present</years>
+            <location>Montreuil</location>
+            <responsibilities>
+                <responsibility>Project implementation, particularly related to emerging technologies such as Cloud (Kubernetes, Docker, Ansible).</responsibility>
+                <responsibility>Management of IT assets, including incident detection and resolution, as well as problem management.</responsibility>
+                <responsibility>Ensuring the operability of solutions by implementing monitoring, resilience tests, and installation and operation documentation.</responsibility>
+                <responsibility>Close collaboration with development teams to ensure compliance with operability rules.</responsibility>
+            </responsibilities>
+        </job>
+        <job>
+            <title>Tutoring Teacher</title>
+            <company>City of Gonesse</company>
+            <years>July to August 2020</years>
+            <location>Gonesse</location>
+            <responsibilities>
+                <responsibility>Course preparation</responsibility>
+                <responsibility>Course delivery in teams</responsibility>
+            </responsibilities>
+        </job>
+    </experience>
+    <extraActivities>
+        <activity>
+            <title>Volunteer</title>
+            <organization>B2S Association</organization>
+            <years>2019 to present</years>
+            <location>Gonesse</location>
+            <responsibilities>
+                <responsibility>Academic support and tutoring for middle school students</responsibility>
+                <responsibility>Meal distribution to the most disadvantaged people</responsibility>
+            </responsibilities>
+        </activity>
+    </extraActivities>
+    <skills>
+        <skill>
+            <category>Programming</category>
+            <levels>
+                <level>
+                    <language>C</language>
+                    <proficiency>Advanced</proficiency>
+                </level>
+                <level>
+                    <language>Kotlin</language>
+                    <proficiency>Advanced</proficiency>
+                </level>
+                <level>
+                    <language>XML</language>
+                    <proficiency>Advanced</proficiency>
+                </level>
+                <level>
+                    <language>HTML/CSS</language>
+                    <proficiency>Advanced</proficiency>
+                </level>
+                <level>
+                    <language>Java</language>
+                    <proficiency>Intermediate</proficiency>
+                </level>
+                <level>
+                    <language>SQL</language>
+                    <proficiency>Intermediate</proficiency>
+                </level>
+                <level>
+                    <language>UML</language>
+                    <proficiency>Intermediate</proficiency>
+                </level>
+                <level>
+                    <language>MIPS</language>
+                    <proficiency>Intermediate</proficiency>
+                </level>
+                <level>
+                    <language>Matlab</language>
+                    <proficiency>Intermediate</proficiency>
+                </level>
+                <level>
+                    <language>JavaScript</language>
+                    <proficiency>Beginner</proficiency>
+                </level>
+                <level>
+                    <language>Python</language>
+                    <proficiency>Beginner</proficiency>
+                </level>
+                <level>
+                    <language>R</language>
+                    <proficiency>Beginner</proficiency>
+                </level>
+            </levels>
+        </skill>
+        <skill>
+            <category>Other Skills</category>
+            <items>
+                <item>Linux</item>
+                <item>Android / Android Studio</item>
+                <item>Git / Github</item>
+                <item>Office Suite</item>
+            </items>
+        </skill>
+    </skills>
+    <personalSkills>
+        <skill>
+            <category>Know-how</category>
+            <items>
+                <item>Autonomy</item>
+                <item>Rigour</item>
+                <item>Adaptation</item>
+            </items>
+        </skill>
+        <skill>
+            <category>Soft Skills</category>
+            <items>
+                <item>Autonomy</item>
+                <item>Rigour</item>
+                <item>Adaptation</item>
+            </items>
+        </skill>
+    </personalSkills>
+    <languages>
+        <language>
+            <name>Arabic</name>
+            <level>Bilingual</level>
+        </language>
+        <language>
+            <name>English</name>
+            <level>Advanced Intermediate</level>
+        </language>
+        <language>
+            <name>Spanish</name>
+            <level>Beginner</level>
+        </language>
+    </languages>
+    <interests>
+        <interest>Astronomy</interest>
+        <interest>Football</interest>
+    </interests>
+</resume>

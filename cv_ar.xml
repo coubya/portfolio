@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv_ar.xsl"?>
+<resume>
+    <personalInfo>
+        <age>22 سنة</age>
+        <location>95500 جونيس</location>
+        <license>رخصة قيادة B - يمتلك سيارة</license>
+    </personalInfo>
+    <education>
+        <degree>
+            <title>برنامج هندسة الكمبيوتر</title>
+            <institution>Sup Galilée في جامعة السوربون باريس نورد</institution>
+            <location>فيلتانيوز</location>
+            <year>2022 - 2025</year>
+        </degree>
+        <degree>
+            <title>برنامج الإعداد الهندسي المتكامل</title>
+            <institution>Sup Galilée في جامعة السوربون باريس نورد</institution>
+            <location>فيلتانيوز</location>
+            <year>2020 - 2022</year>
+        </degree>
+        <degree>
+            <title>البكالوريا العلمية</title>
+            <institution>ثانوية رينيه كاسين</institution>
+            <location>جونيس</location>
+            <year>2020</year>
+        </degree>
+    </education>
+    <experience>
+        <job>
+            <title>مهندس إنتاج تكنولوجيا المعلومات</title>
+            <company>بي إن بي باريبا</company>
+            <years>سبتمبر 2023 إلى الآن</years>
+            <location>مونتروي</location>
+            <responsibilities>
+                <responsibility>تنفيذ المشاريع، خصوصًا المتعلقة بالتقنيات الناشئة مثل السحابة (Kubernetes، Docker، Ansible).</responsibility>
+                <responsibility>إدارة أصول تكنولوجيا المعلومات، بما في ذلك اكتشاف الحوادث وحلها، وكذلك إدارة المشكلات.</responsibility>
+                <responsibility>ضمان تشغيل الحلول من خلال تنفيذ المراقبة، واختبارات المرونة، وتوثيق التثبيت والتشغيل.</responsibility>
+                <responsibility>التعاون الوثيق مع فرق التطوير لضمان الامتثال لقواعد التشغيل.</responsibility>
+            </responsibilities>
+        </job>
+        <job>
+            <title>مدرس دروس خصوصية</title>
+            <company>مدينة جونيس</company>
+            <years>يوليو إلى أغسطس 2020</years>
+            <location>جونيس</location>
+            <responsibilities>
+                <responsibility>تحضير الدروس</responsibility>
+                <responsibility>تقديم الدروس في فرق</responsibility>
+            </responsibilities>
+        </job>
+    </experience>
+    <extraActivities>
+        <activity>
+            <title>متطوع</title>
+            <organization>جمعية B2S</organization>
+            <years>2019 إلى الآن</years>
+            <location>جونيس</location>
+            <responsibilities>
+                <responsibility>الدعم الأكاديمي والتدريس لطلاب المدارس الإعدادية</responsibility>
+                <responsibility>توزيع الوجبات على الأشخاص الأكثر حرمانًا</responsibility>
+            </responsibilities>
+        </activity>
+    </extraActivities>
+    <skills>
+        <skill>
+            <category>البرمجة</category>
+            <levels>
+                <level>
+                    <language>سي</language>
+                    <proficiency>متقدم</proficiency>
+                </level>
+                <level>
+                    <language>كوتلين</language>
+                    <proficiency>متقدم</proficiency>
+                </level>
+                <level>
+                    <language>XML</language>
+                    <proficiency>متقدم</proficiency>
+                </level>
+                <level>
+                    <language>HTML/CSS</language>
+                    <proficiency>متقدم</proficiency>
+                </level>
+                <level>
+                    <language>جافا</language>
+                    <proficiency>متوسط</proficiency>
+                </level>
+                <level>
+                    <language>SQL</language>
+                    <proficiency>متوسط</proficiency>
+                </level>
+                <level>
+                    <language>UML</language>
+                    <proficiency>متوسط</proficiency>
+                </level>
+                <level>
+                    <language>MIPS</language>
+                    <proficiency>متوسط</proficiency>
+                </level>
+                <level>
+                    <language>ماتلاب</language>
+                    <proficiency>متوسط</proficiency>
+                </level>
+                <level>
+                    <language>جافا سكريبت</language>
+                    <proficiency>مبتدئ</proficiency>
+                </level>
+                <level>
+                    <language>بايثون</language>
+                    <proficiency>مبتدئ</proficiency>
+                </level>
+                <level>
+                    <language>R</language>
+                    <proficiency>مبتدئ</proficiency>
+                </level>
+            </levels>
+        </skill>
+        <skill>
+            <category>مهارات أخرى</category>
+            <items>
+                <item>لينكس</item>
+                <item>أندرويد / أندرويد ستوديو</item>
+                <item>Git / Github</item>
+                <item>حزمة أوفيس</item>
+            </items>
+        </skill>
+    </skills>
+    <personalSkills>
+        <skill>
+            <category>المهارات العملية</category>
+            <items>
+                <item>الاستقلالية</item>
+                <item>الدقة</item>
+                <item>التكيف</item>
+            </items>
+        </skill>
+        <skill>
+            <category>المهارات الشخصية</category>
+            <items>
+                <item>الاستقلالية</item>
+                <item>الدقة</item>
+                <item>التكيف</item>
+            </items>
+        </skill>
+    </personalSkills>
+    <languages>
+        <language>
+            <name>العربية</name>
+            <level>ثنائي اللغة</level>
+        </language>
+        <language>
+            <name>الإنجليزية</name>
+            <level>متوسط متقدم</level>
+        </language>
+        <language>
+            <name>الإسبانية</name>
+            <level>مبتدئ</level>
+        </language>
+    </languages>
+    <interests>
+        <interest>علم الفلك</interest>
+        <interest>كرة القدم</interest>
+    </interests>
+</resume>
