@@ -1,11 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="fr" lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio de Yacoub MESBAHI</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
-    <h1>Hello World</h1>
+    <div class="navbar">
+        <a href="cv.xml" data-lang="cv">CV</a>
+        <a href="semantic-web.html" data-lang="web-semantique">Web Sémantique</a>
+        <div class="lang-selector">
+            <select id="language-switcher">
+                <option value="fr">Français</option>
+                <option value="en">English</option>
+                <option value="ar">العربية</option>
+            </select>
+        </div>
+    </div>
+    <div class="content">
+        <h1 data-lang="welcome"></h1>
+        <p data-lang="introduction"></p>
+    </div>
+    <div class="bottom-bar">
+        <p data-lang="copyright"></p>
+        <div class="validators">
+            <a href="https://validator.w3.org/check?uri=referer">
+                <img src="https://www.w3.org/Icons/valid-xhtml-rdfa" alt="XHTML + RDFa Valide !" style="border:0;width:88px;height:31px" />
+            </a>
+            <a href="https://jigsaw.w3.org/css-validator/check/referer">
+                <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="CSS Valide !" style="border:0;width:88px;height:31px" />
+            </a>
+        </div>
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>

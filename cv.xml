@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+<resume>
+    <personalInfo>
+        <age>22 ans</age>
+        <location>95500 Gonesse</location>
+        <license>Permis B - véhiculé</license>
+    </personalInfo>
+    <education>
+        <degree>
+            <title>Cursus Ingénieur Informatique</title>
+            <institution>Sup Galilée à l'université Sorbonne Paris Nord</institution>
+            <location>Villetaneuse</location>
+            <year>2022 - 2025</year>
+        </degree>
+        <degree>
+            <title>Cycle Préparatoire Ingénieur Intégré</title>
+            <institution>Sup Galilée à l'université Sorbonne Paris Nord</institution>
+            <location>Villetaneuse</location>
+            <year>2020 - 2022</year>
+        </degree>
+        <degree>
+            <title>Baccalauréat Scientifique</title>
+            <institution>Lycée René Cassin</institution>
+            <location>Gonesse</location>
+            <year>2020</year>
+        </degree>
+    </education>
+    <experience>
+        <job>
+            <title>Ingénieur de production IT OPS</title>
+            <company>BNP Paribas</company>
+            <years>septembre 2023 à aujourd'hui</years>
+            <location>Montreuil</location>
+            <responsibilities>
+                <responsibility>Implémentation de projets, notamment liés aux technologies émergentes comme le Cloud (Kubernetes, Docker, Ansible).</responsibility>
+                <responsibility>Gestion du patrimoine informatique, y compris la détection et la résolution d'incidents, ainsi que la gestion des problèmes.</responsibility>
+                <responsibility>Garantie de l'exploitabilité des solutions par la mise en place de surveillance, de tests de résilience, et de documentation d'installation et d'exploitation.</responsibility>
+                <responsibility>Collaboration étroite avec les équipes de développement pour assurer le respect des règles d'exploitabilité.</responsibility>
+            </responsibilities>
+        </job>
+        <job>
+            <title>Professeur de soutien scolaire</title>
+            <company>Ville de Gonesse</company>
+            <years>juillet à août 2020</years>
+            <location>Gonesse</location>
+            <responsibilities>
+                <responsibility>Préparation des cours</responsibility>
+                <responsibility>Animation des cours en équipe</responsibility>
+            </responsibilities>
+        </job>
+    </experience>
+    <extraActivities>
+        <activity>
+            <title>Bénévole</title>
+            <organization>Association B2S</organization>
+            <years>2019 à ce jour</years>
+            <location>Gonesse</location>
+            <responsibilities>
+                <responsibility>Soutien et pédagogie scolaire pour des collégiens</responsibility>
+                <responsibility>Distribution de repas aux personnes les plus démunies</responsibility>
+            </responsibilities>
+        </activity>
+    </extraActivities>
+    <skills>
+        <skill>
+            <category>Programmation</category>
+            <levels>
+                <level>
+                    <language>C</language>
+                    <proficiency>Avancé</proficiency>
+                </level>
+                <level>
+                    <language>Kotlin</language>
+                    <proficiency>Avancé</proficiency>
+                </level>
+                <level>
+                    <language>XML</language>
+                    <proficiency>Avancé</proficiency>
+                </level>
+                <level>
+                    <language>HTML/CSS</language>
+                    <proficiency>Avancé</proficiency>
+                </level>
+                <level>
+                    <language>Java</language>
+                    <proficiency>Intermédiaire</proficiency>
+                </level>
+                <level>
+                    <language>SQL</language>
+                    <proficiency>Intermédiaire</proficiency>
+                </level>
+                <level>
+                    <language>UML</language>
+                    <proficiency>Intermédiaire</proficiency>
+                </level>
+                <level>
+                    <language>MIPS</language>
+                    <proficiency>Intermédiaire</proficiency>
+                </level>
+                <level>
+                    <language>Matlab</language>
+                    <proficiency>Intermédiaire</proficiency>
+                </level>
+                <level>
+                    <language>JavaScript</language>
+                    <proficiency>Débutant</proficiency>
+                </level>
+                <level>
+                    <language>Python</language>
+                    <proficiency>Débutant</proficiency>
+                </level>
+                <level>
+                    <language>R</language>
+                    <proficiency>Débutant</proficiency>
+                </level>
+            </levels>
+        </skill>
+        <skill>
+            <category>Autres Compétences</category>
+            <items>
+                <item>Linux</item>
+                <item>Android / Android Studio</item>
+                <item>Git / Github</item>
+                <item>Pack Office</item>
+            </items>
+        </skill>
+    </skills>
+    <personalSkills>
+        <skill>
+            <category>Savoir-faire</category>
+            <items>
+                <item>Autonomie</item>
+                <item>Rigueur</item>
+                <item>Adaptation</item>
+            </items>
+        </skill>
+        <skill>
+            <category>Savoir-être</category>
+            <items>
+                <item>Autonomie</item>
+                <item>Rigueur</item>
+                <item>Adaptation</item>
+            </items>
+        </skill>
+    </personalSkills>
+    <languages>
+        <language>
+            <name>Arabe</name>
+            <level>Bilingue</level>
+        </language>
+        <language>
+            <name>Anglais</name>
+            <level>Intermédiaire avancé</level>
+        </language>
+        <language>
+            <name>Espagnol</name>
+            <level>Débutant</level>
+        </language>
+    </languages>
+    <interests>
+        <interest>Astronomie</interest>
+        <interest>Football</interest>
+    </interests>
+</resume>
